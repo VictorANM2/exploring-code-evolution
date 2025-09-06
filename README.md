@@ -81,9 +81,7 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
-
-
-
+1. Repositório selecionado: <https://github.com/huggingface/transformers>
+2. Gráfico selecionado: ![Alt text](image.png "Optional title text")
+3. Explicação:
+   O gráfico revela uma transformação crítica na maturidade do código. As funções com typed annotations em seu retorno saltaram de apenas 0,7% em 2020 para 16,7% em 2025 - um crescimento de 520x. O ponto de inflexão em 2021-2022 coincide com a transição do transformers de projeto experimental para infraestrutura crítica usada em produção por gigantes tech, exigindo código mais robusto e mantível. Ele também mostra o crescimento extraordinário deste repositório, acompanhando a ascensão dos modelos de transformers como um fenômeno global. Isso pode ser visto comparando o número total de funções no código, que foi de 2369 em 2020 para 52749, um aumento de 22x em um período de 5 anos.
